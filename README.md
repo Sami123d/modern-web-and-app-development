@@ -94,18 +94,6 @@ This repository contains the complete curriculum for **Modern Web & App Developm
 
 ---
 
-### **Module 5: Mobile App Development**
-- **Prerequisites:** Module 2  
-- **Duration:** 1 Month  
-- **Quizzes:** React Native  
-- **Hackathon:** After completion  
-
-#### **Topics**
-- **React Native** – CLI, Expo  
-- Build & Publish (iOS & Android)  
-
----
-
 ## 🏆 Final Outcomes
 By completing this course, students will be able to:  
 - Design professional websites  
